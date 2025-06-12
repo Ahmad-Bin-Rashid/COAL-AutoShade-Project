@@ -3,7 +3,7 @@
 
 // Wi-Fi Credentials
 const char* ssid = "infinix";
-const char* password = "malik000";
+const char* password = "[PASSWORD]";
 
 // MQTT Broker
 const char* mqtt_server = "broker.hivemq.com";
